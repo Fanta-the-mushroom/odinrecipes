@@ -4,10 +4,11 @@ body {
 }
 h1 {
     text-align: center;
-    background-color: indianred;
+    background-color: black;
     text-decoration: underline;
     color: gold;
-    border: dashed green;
+    border: dashed gold;
+    padding: 1cm;
     
 }
 ul {
@@ -15,8 +16,20 @@ ul {
     text-align: center;
 }
 img {
-    width: 50%;
+    float: left;
+    width: 30%;
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+.first {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 100px;
+    margin: ;
+}
+.float {
+    float: right
+    
 }
