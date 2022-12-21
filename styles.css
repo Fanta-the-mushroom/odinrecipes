@@ -1,0 +1,16 @@
+body {
+    background-color: indianred;
+    
+}
+h1 {
+    text-align: center;
+    background-color: indianred;
+    text-decoration: underline;
+    color: gold;
+    border: dashed green;
+    
+}
+ul {
+    list-style-type: circle;
+    text-align: center;
+}
